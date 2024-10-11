@@ -1,4 +1,4 @@
-![Email Sorter](https://i.postimg.cc/VNvKmhhZ/Screenshot-2024-10-11-075901.png)
+![Screenshot 2024-10-11 075901](https://github.com/user-attachments/assets/4d92a107-3413-4d18-a3bd-4999400b4dd7)
 
 # Email Sorter
 
