@@ -1,6 +1,6 @@
 ![Screenshot 2024-10-11 075901](https://github.com/user-attachments/assets/4d92a107-3413-4d18-a3bd-4999400b4dd7)
 
-# Email Sorter
+# MailSorter
 
 A Python script to sort and filter email addresses by domain from a provided email list file. This tool is designed to clean up email data and categorize it for better organization and management.
 
