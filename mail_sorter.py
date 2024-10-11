@@ -140,7 +140,7 @@ def process_email_list(file_path, result_folder, maxi):
         return
 
 
-# Example usage
+
 file_path = input(Fore.LIGHTYELLOW_EX + "Enter the file path: " + Fore.RESET)
 while not os.path.isfile(file_path):
     print(Fore.RED + "The specified file does not exist. Please try again." + Fore.RESET)
