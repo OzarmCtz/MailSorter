@@ -27,7 +27,7 @@ python --version
 
    ```bash
    git clone https://github.com/OzarmCtz/MailSorter.git
-   cd email_sorter
+   cd MailSorter
    ```
 
 2. Install the required packages:
